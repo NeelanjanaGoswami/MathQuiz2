@@ -1,0 +1,13 @@
+body{
+    background-color: lightseagreen;
+}
+h1{
+    color:maroon;
+}
+h3{
+    color:midnightblue;
+}
+#loginButton {
+    background-color: firebrick;
+    border-color:maroon; 
+}
